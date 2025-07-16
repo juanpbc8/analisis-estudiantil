@@ -1,0 +1,19 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos cache de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos temporales del sistema o editores
+*.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Ignorar archivos de configuración local o basura
+*.log
+*.tmp
+
+# Ignorar archivos de datos grandes
+*.csv
