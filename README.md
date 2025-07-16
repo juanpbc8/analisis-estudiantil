@@ -1,3 +1,7 @@
+# 📊 Análisis de Matrícula y Trayectoria Estudiantil (2021–2024)
+
+Este proyecto realiza un análisis exploratorio de los datos de matrícula escolar en Perú, utilizando Python, Streamlit y visualizaciones interactivas. El enfoque incluye la evolución anual, niveles educativos, discapacidades integradas, entre otros aspectos clave.
+
 ## Tecnologías utilizadas
 
 - Python **3.10.11**
